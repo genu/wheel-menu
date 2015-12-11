@@ -6,7 +6,7 @@
     "Pete Rojwongsuriya"
   ],
   "description": "A fully customisable Path-like wheel menu",
-  "main": "",
+  "main": ["wheelmenu.css", "jquery.wheelmenu.js"],
   "moduleType": [],
   "keywords": [
     "path",
