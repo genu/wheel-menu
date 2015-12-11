@@ -1,0 +1,29 @@
+{
+  "name": "wheel-menu",
+  "homepage": "https://github.com/genu/wheel-menu",
+  "authors": [
+    "Eugen Istoc <eugenistoc@gmail.com>",
+    "Pete Rojwongsuriya"
+  ],
+  "description": "A fully customisable Path-like wheel menu",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "path",
+    "wheel",
+    "menu",
+    "mobile",
+    "ionic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
